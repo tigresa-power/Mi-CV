@@ -1,25 +1,50 @@
 body {
-    margin: 0;
-    padding: 0;
-  }
-  h1 {
-    text-align: center;
-  }
-  
-  .icon{
-    height: 20px; /*cambiar altura*/
-    width: 25px; /*cambiar ancho*/
-  }
-  
-  #profileImage {
-    height: 150px; /*cambiar altura*/
-    width: 150px; /*cambiar ancho*/
-    border-radius: 15px; /*bordes redondos*/
-  }
-  
-  #personalData{
-    background-color: rgb(131, 186, 153);
-    border-radius: 25px;
-    margin: 25px;
-    padding: 50px;
-  }
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border: 5px dotted greenyellow;
+  border-radius: 10px;
+}
+.icon {
+  height: 20px; /*cambiar altura*/
+  width: 25px; /*cambiar ancho*/
+}
+
+#profileImage {
+  height: 150px; /*cambiar altura*/
+  width: 150px; /*cambiar ancho*/
+  border-radius: 15px; /*bordes redondos*/
+}
+
+#personalData {
+  background-color: rgb(49, 160, 94);
+  border-radius: 25px;
+  margin: 25px;
+  padding: 20px;
+}
+
+#habilidades {
+  background-color: rgb(96, 188, 133);
+  border-radius: 25px;
+  margin: 25px;
+  padding: 20px;
+}
+
+#experiencia {
+  background-color: rgb(96, 188, 133);
+  border-radius: 25px;
+  margin: 25px;
+  padding: 20px;
+}
+
+#hobbies {
+  background-color: rgb(96, 188, 133);
+  border-radius: 25px;
+  margin: 25px;
+  padding: 20px;
+}
